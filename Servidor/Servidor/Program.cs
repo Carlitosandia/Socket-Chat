@@ -15,7 +15,7 @@ namespace Servidor
     public class Servidor
     {
         //Se declaran variables para inicializar server
-        private static int PORT = 800;
+        private static int PORT = 800; //Se indica el puerto
         private IPHostEntry host;
         private String ip;
         private static List<Socket> coleccionSockets = new List<Socket>(); // Listado donde tenemos todos los clientes que se iran conectando
