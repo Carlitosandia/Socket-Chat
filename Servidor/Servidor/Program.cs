@@ -49,7 +49,7 @@ namespace Servidor
             }
             catch (IOException ioe)
             {
-                Console.WriteLine(ioe);
+                Console.WriteLine(ioe);//Se escribe la excepcion cachada
             }
             return null;
         }
