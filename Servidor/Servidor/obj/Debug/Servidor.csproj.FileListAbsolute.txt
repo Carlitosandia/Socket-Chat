@@ -1,0 +1,7 @@
+C:\Users\Carlo\OneDrive\Documentos\IngenieradeSoftware\Quinto\SistemasDistribuidos\C#\Servidor\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\Carlo\OneDrive\Documentos\IngenieradeSoftware\Quinto\SistemasDistribuidos\C#\Servidor\Servidor\bin\Debug\Servidor.exe
+C:\Users\Carlo\OneDrive\Documentos\IngenieradeSoftware\Quinto\SistemasDistribuidos\C#\Servidor\Servidor\bin\Debug\Servidor.pdb
+C:\Users\Carlo\OneDrive\Documentos\IngenieradeSoftware\Quinto\SistemasDistribuidos\C#\Servidor\Servidor\obj\Debug\Servidor.csproj.AssemblyReference.cache
+C:\Users\Carlo\OneDrive\Documentos\IngenieradeSoftware\Quinto\SistemasDistribuidos\C#\Servidor\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\OneDrive\Documentos\IngenieradeSoftware\Quinto\SistemasDistribuidos\C#\Servidor\Servidor\obj\Debug\Servidor.exe
+C:\Users\Carlo\OneDrive\Documentos\IngenieradeSoftware\Quinto\SistemasDistribuidos\C#\Servidor\Servidor\obj\Debug\Servidor.pdb
